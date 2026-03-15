@@ -23,9 +23,9 @@ I spend my days simulating heat, airflow, and fluid dynamics so engineers don't 
 - 🚗 EV thermal systems, drivetrain simulation & SPH lubrication modelling
 - 🐍 Python automation for DAQ data pipelines (Dewesoft, MoTeC)
 
-**Stack:** `Python` · `SolidWorks` · `Ansys Fluent` · `AEDT Icepak` · `OpenFOAM` · `HyperWorks`
+**Stack:**  `SolidWorks` · `Ansys Fluent` · `AEDT Icepak` · `OpenFOAM`  `Altair HyperWorks` · `Python` · `Autodesk`
 
-🎓 MASc @ University of Toronto (MIE1242 — Applied Thermal Management)
+🎓 MEng @ University of Toronto 
 
 ---
 

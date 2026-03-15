@@ -89,9 +89,9 @@ I spend my days simulating heat, airflow, and fluid dynamics so engineers don't 
 
 **Results?** Streamline patterns match Ghia et al. (1982) benchmark data closely. At Re = 2500, secondary corner vortices emerge — a well-known hallmark of transitional cavity flow behaviour.
 
----
-
 🔗 [`lid-driven-cavity-cfd`](https://github.com/vasanthravin/lid-driven-cavity-cfd)
+
+---
 
 <div align="center">
 

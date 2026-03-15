@@ -2,7 +2,7 @@
 
 # Hey, I'm Ravin 👋
 
-**Senior Mechanical Engineer · Thermal & CFD Specialist · Toronto 🇨🇦**
+**Senior Mechanical Engineer · Thermal & CFD Enthusiast · Toronto 🇨🇦**
 
 *I make things cooler — literally.*
 

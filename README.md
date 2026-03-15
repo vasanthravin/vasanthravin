@@ -33,26 +33,6 @@ I spend my days simulating heat, airflow, and fluid dynamics so engineers don't 
 
 ---
 
-### 🌀 Lid-Driven Cavity Flow — CFD Solver (Python)
-
-> A 2D incompressible Navier–Stokes solver built from scratch, validating the classic lid-driven cavity benchmark across Reynolds numbers Re = 100, 500, and 2500.
-
-<p align="center">
-  <img src="assets/lid_driven_streamlines.png" width="750" alt="Velocity streamlines for Re=100, Re=500, Re=2500"/>
-  <br/>
-  <em>Velocity streamlines for (a) Re=100 · (b) Re=500 · (c) Re=2500</em>
-</p>
-
-**What?** Implemented a finite-difference pressure–velocity solver (SIMPLE algorithm) in pure Python to simulate recirculating flows in a square cavity.
-
-**How?** Built the solver from first principles using staggered grids, central differencing for diffusion, and upwind schemes for convection. Parametric sweeps across Re numbers capture the evolution from laminar single-vortex flow to complex multi-vortex structures.
-
-**Results?** Streamline patterns match Ghia et al. (1982) benchmark data closely. At Re = 2500, secondary corner vortices emerge — a well-known hallmark of transitional cavity flow behaviour.
-
-🔗 [`lid-driven-cavity-cfd`](https://github.com/vasanthravin/lid-driven-cavity-cfd)
-
----
-
 ### 🏢 Data Centre Room Cooling — Hot/Cold Aisle CFD
 
 > Thermal and airflow simulation of a small data centre with raised-floor plenum, hot/cold aisle containment, and CRAH units — evaluated against ASHRAE A1 thermal limits.
@@ -92,6 +72,26 @@ I spend my days simulating heat, airflow, and fluid dynamics so engineers don't 
 🔗 [`heatsink-cfd-thermal-analysis`](https://github.com/vasanthravin/heatsink-cfd-thermal-analysis)
 
 ---
+
+### 🌀 Lid-Driven Cavity Flow — CFD Solver (Python)
+
+> A 2D incompressible Navier–Stokes solver built from scratch, validating the classic lid-driven cavity benchmark across Reynolds numbers Re = 100, 500, and 2500.
+
+<p align="center">
+  <img src="assets/lid_driven_streamlines.png" width="750" alt="Velocity streamlines for Re=100, Re=500, Re=2500"/>
+  <br/>
+  <em>Velocity streamlines for (a) Re=100 · (b) Re=500 · (c) Re=2500</em>
+</p>
+
+**What?** Implemented a finite-difference pressure–velocity solver (SIMPLE algorithm) in pure Python to simulate recirculating flows in a square cavity.
+
+**How?** Built the solver from first principles using staggered grids, central differencing for diffusion, and upwind schemes for convection. Parametric sweeps across Re numbers capture the evolution from laminar single-vortex flow to complex multi-vortex structures.
+
+**Results?** Streamline patterns match Ghia et al. (1982) benchmark data closely. At Re = 2500, secondary corner vortices emerge — a well-known hallmark of transitional cavity flow behaviour.
+
+---
+
+🔗 [`lid-driven-cavity-cfd`](https://github.com/vasanthravin/lid-driven-cavity-cfd)
 
 <div align="center">
 

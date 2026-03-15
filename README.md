@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hey, I'm Vasanth 👋
+# Hey, I'm Ravin 👋
 
 **Senior Mechanical Engineer · Thermal & CFD Specialist · Toronto 🇨🇦**
 
 *I make things cooler — literally.*
 
-I spend my days simulating heat, airflow, and fluid dynamics so engineers don't have to find out the hard way that something is on fire. Currently a Senior Mechanical Engineer in EV, but my heart is in electronics cooling — GPUs, data centres, heat sinks, the whole thermal circus. I wrote a CFD solver from scratch in Python during my Master's at UofT and haven't stopped simulating since.
+I spend my days simulating heat, airflow, and fluid dynamics so engineers don't have to find out the hard way that something is on fire. Currently a Senior Mechanical Engineer in the EV space, but my heart is in electronics cooling — GPUs, data centres, heat sinks, the whole thermal circus. I wrote a CFD solver from scratch in Python during my Master's at UofT and haven't stopped simulating since.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasanth_Ravin-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/vasanthravin)
 [![Email](https://img.shields.io/badge/Email-vasanthravin@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:vasanthravin@gmail.com)
@@ -21,7 +21,7 @@ I spend my days simulating heat, airflow, and fluid dynamics so engineers don't 
 - 🌡️ Conjugate heat transfer & forced convection CFD (Ansys Fluent, Icepak, OpenFOAM)
 - ⚡ Electronics cooling — ICs, heat sinks, GPU-dense data centre environments
 - 🚗 EV thermal systems, drivetrain simulation & SPH lubrication modelling
-- 🐍 Python automation for DAQ data pipelines (Dewesoft, MoTeC)
+- 🐍 Python automation for Data Acquisition Systems - DAQ data pipelines (Dewesoft, MoTeC)
 
 **Stack:**  `SolidWorks` · `Ansys Fluent` · `AEDT Icepak` · `OpenFOAM`  `Altair HyperWorks` · `Python` · `Autodesk`
 
@@ -43,9 +43,9 @@ I spend my days simulating heat, airflow, and fluid dynamics so engineers don't 
   <em>Velocity streamlines & rack surface temperature contour — hot/cold aisle airflow dynamics</em>
 </p>
 
-**What?** Modelled a 2D steady-state room with 4 server racks, raised-floor plenum supply, and a CRAH return. Evaluated rack inlet temperatures against ASHRAE guidelines.
+**What?** Modelled a 3D steady-state room with 8 server racks, raised-floor plenum supply, and a CRAH return. Evaluated rack inlet temperatures against ASHRAE guidelines.
 
-**How?** Ansys Fluent with Boussinesq buoyancy approximation, realizable k-ε turbulence model, and rack loads modelled as porous-jump volumetric heat sources.
+**How?** Ansys AEDT Icepak with Boussinesq buoyancy approximation, realizable k-ε turbulence model, and rack loads modelled as porous-jump volumetric heat sources.
 
 **Results?** Rack 3 showed the highest inlet temperature due to hot-air recirculation over the top of the rack row. Adding blanking panels and cold-aisle containment in the model dropped R3 inlet temperature by **4.2 °C** — small containment changes, outsized thermal impact.
 

@@ -49,7 +49,7 @@ I spend my days simulating heat, airflow, and fluid dynamics so engineers don't 
 
 **Results?** Rack 3 showed the highest inlet temperature due to hot-air recirculation over the top of the rack row. Adding blanking panels and cold-aisle containment in the model dropped R3 inlet temperature by **4.2 °C** — small containment changes, outsized thermal impact.
 
-🔗 [`datacenter-cfd-thermal`](https://github.com/vasanthravin/datacenter-cfd-thermal)
+🔗 [`datacenter-cfd-thermal`](https://github.com/vasanthravin/data-center-cfd-thermal-analysis)
 
 ---
 
@@ -89,7 +89,7 @@ I spend my days simulating heat, airflow, and fluid dynamics so engineers don't 
 
 **Results?** Streamline patterns match Ghia et al. (1982) benchmark data closely. At Re = 2500, secondary corner vortices emerge — a well-known hallmark of transitional cavity flow behaviour.
 
-🔗 [`lid-driven-cavity-cfd`](https://github.com/vasanthravin/lid-driven-cavity-cfd)
+🔗 [`lid-driven-cavity-cfd`](https://github.com/vasanthravin/lid-driven-cavity-navier-stokes-solver)
 
 ---
 

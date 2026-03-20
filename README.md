@@ -16,12 +16,12 @@ I spend my days simulating heat, airflow, and fluid dynamics so engineers don't 
 
 ---
 
-## 🔥 What I work on
+## What I work on
 
-- 🌡️ Conjugate heat transfer & forced convection CFD (Ansys Fluent, Icepak, OpenFOAM)
-- ⚡ Electronics cooling — ICs, heat sinks, GPU-dense data centre environments
-- 🚗 EV thermal systems, drivetrain simulation & SPH lubrication modelling
-- 🐍 Python automation for Data Acquisition Systems - DAQ data pipelines (Dewesoft, MoTeC)
+- Conjugate heat transfer & forced convection CFD (Ansys Fluent, Icepak, OpenFOAM)
+- Electronics cooling — ICs, heat sinks, GPU-dense data centre environments
+- EV thermal systems, drivetrain simulation & SPH lubrication modelling
+- Python automation for Data Acquisition Systems - DAQ data pipelines (Dewesoft, MoTeC)
 
 **Stack:**  `SolidWorks` · `Ansys Fluent` · `AEDT Icepak` · `OpenFOAM`  `Altair HyperWorks` · `Python` · `Autodesk`
 
@@ -29,11 +29,11 @@ I spend my days simulating heat, airflow, and fluid dynamics so engineers don't 
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ---
 
-### 🏢 Data Centre Room Cooling — Hot/Cold Aisle CFD
+### Data Centre Room Cooling — Hot/Cold Aisle CFD
 
 > Thermal and airflow simulation of a small data centre with raised-floor plenum, hot/cold aisle containment, and CRAH units — evaluated against ASHRAE A1 thermal limits.
 
@@ -53,7 +53,7 @@ I spend my days simulating heat, airflow, and fluid dynamics so engineers don't 
 
 ---
 
-### 🌡️ Heat Sink CFD — IC Junction Temperature Optimisation
+### Heat Sink CFD — IC Junction Temperature Optimisation
 
 > Parametric forced convection study of a finned heat sink on a 1 W surface-mounted IC (10×10 mm), sweeping inlet velocities from 0.5–8 m/s to identify the optimal cooling operating point.
 
@@ -73,7 +73,7 @@ I spend my days simulating heat, airflow, and fluid dynamics so engineers don't 
 
 ---
 
-### 🌀 Lid-Driven Cavity Flow — CFD Solver (Python)
+### Lid-Driven Cavity Flow — CFD Solver (Python)
 
 > A 2D incompressible Navier–Stokes solver built from scratch, validating the classic lid-driven cavity benchmark across Reynolds numbers Re = 100, 500, and 2500.
 
